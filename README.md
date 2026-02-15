@@ -383,6 +383,111 @@ In this experiment, a DC motor was controlled using an Arduino UNO and the L298N
 - Learning about H-bridge motor driver functionality.
 ---
 <img width="1003" height="566" alt="Screenshot 2026-02-15 160112" src="https://github.com/user-attachments/assets/9667a916-0882-438e-928d-083f9e5e9912" />
+
+---
+
+# TASK 9: Tinkercad Project
+
+This task focuses on detecting unknown objects using an ultrasonic sensor, a servo motor, and an Arduino Uno board.
+
+---
+
+## Components Used
+
+### Ultrasonic Sensor
+The ultrasonic sensor has two main parts: a transmitter and a receiver. The transmitter emits sound waves that travel through the air and reflect back when they hit an object. The receiver detects the returning echo signal.
+
+### Servo Motor
+The servo motor rotates the ultrasonic sensor through an angle of 180°, allowing the system to scan a wider area.
+
+### Arduino Uno
+The Arduino Uno acts as the main controller of the system and performs the following operations:
+
+- Sends a trigger signal to activate the ultrasonic sensor.
+- Calculates the distance based on the time taken for the echo to return.
+- Rotates the servo motor step-by-step from 0° to 180°.
+- Sends the calculated distance values to the Serial Monitor.
+
+Without the Arduino, the ultrasonic sensor and servo motor cannot function together as a complete system.
+
+---
+
+<img width="999" height="690" alt="Screenshot 2026-02-15 163008" src="https://github.com/user-attachments/assets/8713852d-88a2-4c11-a601-5531d656e34e" />
+
+---
+
+# TASK 11: LED Toggle Using ESP32
+
+## Introduction
+
+In this task, we used an ESP32 microcontroller to create a standalone web server using the Arduino IDE. The ESP32 connects to a Wi-Fi network and hosts a webpage with LED ON/OFF buttons. Clicking these buttons sends HTTP requests to the ESP32, which controls the LEDs connected to its GPIO pins.
+
+---
+
+## Connections
+
+- ESP32 GPIO pin connected to LED (through resistor).
+- LED cathode connected to GND.
+- ESP32 powered via USB.
+- Wi-Fi connection configured inside Arduino IDE.
+
+---
+
+## Working Principle
+
+- ESP32 connects to Wi-Fi network.
+- Hosts a local web server.
+- Webpage contains ON/OFF buttons.
+- Button click sends HTTP request.
+- ESP32 reads request and toggles LED state.
+
+---
+
+![IMG-20260215-WA0021](https://github.com/user-attachments/assets/78ad9022-ebe7-431f-a063-91f08abbd5d8)
+
+---
+
+# TASK 7: Create a Portfolio Webpage
+
+## Introduction
+
+A portfolio is a collection of your work, skills, and achievements that showcases your abilities to potential employers, clients, or collaborators. In this task, I created my personal portfolio using HTML and CSS.
+
+---
+
+## Features of the Portfolio
+
+- About Me section containing personal introduction.
+- Education details.
+- Hobbies and interests.
+- Skills section highlighting technical abilities.
+- Social media links.
+- Responsive layout using HTML and CSS styling.
+
+---
+
+## Learning Outcomes
+
+- Understanding basic webpage structure using HTML.
+- Styling webpages using CSS.
+- Creating navigation sections.
+- Designing a simple personal portfolio layout.
+
+---
+
+## Portfolio Link
+
+👉 [Click here to view my portfolio code](https://github.com/keerthijeevan/onepiece/blob/421a07542581cc7c4be0148293fe5a051a8a4776/jeevan.html)
+
+---
+
+
+
+
+
+
+
+
   
 
 
