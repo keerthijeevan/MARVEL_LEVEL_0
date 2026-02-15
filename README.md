@@ -142,6 +142,46 @@ Soldering refers to the process of joining metal parts together using a filler m
 
 ---
 
+# TASK 14: Karnaugh Maps and Deriving the Logic Circuit
+
+## Introduction
+
+A Karnaugh map (K-map) is a visual technique used in digital logic design and Boolean algebra to simplify logical expressions and reduce the number of logic gates needed for implementing a digital circuit.
+
+This task focuses on a Burglar Alarm system that identifies unauthorized access when the gate is open while the key remains unpressed.
+
+---
+
+## Concepts Learned
+
+- Understanding Boolean algebra simplification using Karnaugh Maps (K-maps).
+- Mapping truth table values into K-map cells.
+- Grouping adjacent cells to simplify logical expressions.
+- Reducing the number of logic gates for efficient circuit design.
+- Deriving simplified Boolean expressions from K-map.
+
+---
+
+## System Description (Burglar Alarm)
+
+- The system monitors the condition of a gate and a key.
+- Alarm is triggered when:
+  - Gate is open.
+  - Key remains unpressed.
+- Logical conditions were analyzed and simplified using Karnaugh Map techniques.
+
+---
+
+## Learning Outcomes
+
+- Improved understanding of digital logic simplification.
+- Practical application of K-map in real-world problem (alarm system).
+- Visualization of logic minimization process.
+
+---
+![kmap](https://github.com/user-attachments/assets/4ea24771-8921-45cd-bd98-58e8b6f8bc5a)
+
+
 
 
 
