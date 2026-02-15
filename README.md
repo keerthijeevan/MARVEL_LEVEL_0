@@ -37,3 +37,40 @@ These commands help users navigate directories, create files and folders, manage
 ---
 
 <img width="1016" height="582" alt="Screenshot 2026-02-15 125444" src="https://github.com/user-attachments/assets/076e73b7-b685-4717-bfcb-aa416cbeba51" />
+
+---
+
+# TASK 3: Working with GitHub
+
+## Introduction
+
+GitHub is a collaborative platform for version control and project hosting. It is a very great place to work and collaborate on a project or any work.
+
+Here I have forked a repository and after correcting the code I have send pull request to the main branch in repository.
+
+In this task, I learned about the working of GitHub, such as how to create a fork, which essentially means creating a personal copy of a repository, and about pull requests (PR), a feature used to propose changes made in someone else’s repository so that they can review and merge it into the main branch.
+
+---
+
+## Steps Performed
+
+- Opened the given GitHub repository.
+- Forked the repository to create a personal copy.
+- Cloned the forked repository into local system (optional step if you did).
+- Made necessary code corrections/changes.
+- Committed the changes.
+- Pushed changes to forked repository.
+- Created a Pull Request (PR) to the main/original repository.
+- Submitted PR for review and merge.
+
+---
+<img width="1919" height="1075" alt="Screenshot 2026-02-13 221654" src="https://github.com/user-attachments/assets/3a6e34b4-ee18-4218-aad2-b23a2f9b4022" />
+
+---
+
+## GitHub Repository Link
+
+👉 [Click here to view my GitHub Task Repository](https://github.com/UVCE-Marvel/git-task/pull/245)
+
+
+
