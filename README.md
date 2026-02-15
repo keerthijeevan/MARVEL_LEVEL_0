@@ -306,6 +306,87 @@ Markdown files are usually saved with the `.md` extension.
 
 👉 [Click Here](https://keerthijeevan.github.io/index.md/)
 
+---
+# TASK: Linear Regression
+
+## Introduction
+
+Linear Regression is a supervised machine learning algorithm used to model the relationship between input features and a continuous output variable. It works by fitting a straight line (best-fit line) through data points to predict values.
+
+---
+
+## Concepts Learned
+
+- Understanding supervised learning.
+- Difference between regression and classification.
+- Linear relationship between variables.
+- Concept of best-fit line.
+- Error function and loss minimization.
+
+---
+
+## Steps Performed
+
+- Loaded dataset and explored input features.
+- Implemented linear regression without using machine learning libraries.
+- Calculated slope and intercept for best-fit line.
+- Predicted output values.
+- Visualized results using graphs.
+
+---
+
+## Learning Outcome
+
+- Practical understanding of regression models.
+- Implemented algorithm using mathematical concepts.
+- Visualized prediction results.
+---
+##  housing price vs feature
+<img width="1918" height="1072" alt="Screenshot 2026-02-13 185908" src="https://github.com/user-attachments/assets/ede04af6-52ce-43f2-9eba-7871ab27e848" />
+
+---
+## Maths beyond the linear regresion
+<img width="1536" height="1024" alt="Linear regression handwritten notes" src="https://github.com/user-attachments/assets/7aeaa08f-4573-4997-9487-b1160e05a327" />
+---
+
+# TASK 10: Speed Control of DC Motor
+
+## Introduction
+
+In this experiment, a DC motor was controlled using an Arduino UNO and the L298N H-bridge motor driver. The motor’s speed was varied through PWM signals sent from the Arduino, while the direction was controlled using digital pins.
+
+---
+
+## Components Used
+
+- Arduino UNO
+- L298N Motor Driver
+- Arduino IDE
+- VRPS
+
+---
+
+## Working Principle
+
+- PWM (Pulse Width Modulation) signals were used to control the speed of the DC motor.
+- Digital pins were used to change the rotation direction.
+- The L298N motor driver acted as an interface between Arduino and the motor.
+
+---
+
+## Learning Outcome
+
+- Understanding of motor speed control using PWM.
+- Practical experience with Arduino motor control.
+- Learning about H-bridge motor driver functionality.
+---
+<img width="1003" height="566" alt="Screenshot 2026-02-15 160112" src="https://github.com/user-attachments/assets/9667a916-0882-438e-928d-083f9e5e9912" />
+  
+
+
+
+
+
 
 
 
