@@ -212,6 +212,42 @@ Get hands-on with NumPy and Matplotlib by solving a visual puzzle. In this task,
 ---
 <img width="440" height="424" alt="Task-6" src="https://github.com/user-attachments/assets/86030ed7-a017-4486-9646-05a26c1b7161" />
 
+---
+# TASK 20: Notebook Ninja – Getting Started with Jupyter
+
+## Introduction
+
+Familiarize yourself with Jupyter Notebook as a tool for both coding and communication. This task is designed to build confidence in writing clean, readable, and well-structured notebooks using both code and Markdown.
+
+---
+
+## Concepts Learned
+
+- Understanding the Jupyter Notebook interface.
+- Using code cells to write and execute programs.
+- Using Markdown cells for documentation and explanations.
+- Combining code and text for better communication.
+- Organizing notebooks in a clean and structured way.
+
+---
+
+## Practical Experience
+
+- Created and worked with Jupyter Notebook files.
+- Practiced writing formatted text using Markdown.
+- Executed code step-by-step within notebook cells.
+- Learned how to present results clearly inside notebooks.
+
+---
+
+## Jupyter Notebook Link
+
+👉 [Click here to view the Jupyter Notebook](https://github.com/keerthijeevan/jupyter_notebook/blob/master/marvel.ipynb)
+
+---
+
+
+
 
 
 
