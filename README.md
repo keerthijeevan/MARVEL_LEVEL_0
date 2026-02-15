@@ -291,6 +291,21 @@ I participated in the event CODEATHON, conducted during the International-Level 
 
 <img width="1536" height="1024" alt="ChatGPT Image Feb 15, 2026, 05_07_23 AM" src="https://github.com/user-attachments/assets/35c8917a-54cd-4da4-ad1f-9ed7e5b80433" />
 
+---
+# TASK 8: Writing a Resource Article Using Markdown
+
+Markdown is a lightweight markup language used to format text using simple syntax.  
+It allows users to create structured documents with headings, lists, links, and images easily.  
+Markdown is widely used in GitHub, documentation, and technical writing.  
+It helps convert plain text into clean and readable formatted content.  
+Markdown files are usually saved with the `.md` extension.
+
+---
+
+## Resource Link for my article 
+
+👉 [Click Here](https://keerthijeevan.github.io/index.md/)
+
 
 
 
