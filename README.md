@@ -72,5 +72,79 @@ In this task, I learned about the working of GitHub, such as how to create a for
 
 👉 [Click here to view my GitHub Task Repository](https://github.com/UVCE-Marvel/git-task/pull/245)
 
+---
+
+# TASK 1: 3D Printing
+
+## Introduction
+
+3D printing is an additive manufacturing process where 3D objects are created layer by layer based on a digital model or code. So basically I tried to understand the entire workflow of the printer.
+
+---
+
+## Concepts Learned
+
+- **STL File:** This is the standard file format for 3D printing. I downloaded one from Thingiverse.
+
+- **Slicing:** Before printing, the STL file is processed in slicer software like Cura converting it to G-CODE.
+
+- **Printing Speed:**
+  - For better results: keep speed ≤ 55 mm/s.
+  - Helps achieve great surface resolution.
+
+---
+
+## Post-Printing Procedures
+
+- **Joining 3D Printed Parts**
+  - Use cyanoacrylate glue (superglue) or two-stage epoxies for PLA parts.
+
+- **Painting**
+  - Almost all 3D printed parts can be painted (except Nylon and PETG).
+
+- **Sanding**
+  - Use progressively finer sandpaper for smooth surface finishes.
+  - Sand slowly to avoid breaking parts or melting due to friction.
+  ---  
+![IMG-20260215-WA0011](https://github.com/user-attachments/assets/2011dea7-1d7f-4223-be6a-18a4b43847e4)
+
+---
+
+# TASK 12: Soldering Prerequisites
+
+## Introduction
+
+Soldering refers to the process of joining metal parts together using a filler material called solder, which has a low melting point. The solder is heated until it liquefies, allowing it to flow over the surfaces and create a connection when it cools and hardens.
+
+---
+
+## Concepts Learned
+
+- Understanding the basics of soldering.
+- Learning about soldering tools and safety precautions.
+- Proper heating techniques for strong connections.
+- Importance of clean surfaces before soldering.
+- Maintaining correct temperature during soldering.
+
+---
+
+## Practical Understanding
+
+- Observed the solder melting and flowing over metal surfaces.
+- Understood how cooling forms a solid electrical and mechanical connection.
+- Learned about careful handling of soldering iron.
+
+---
+
+![IMG-20260215-WA0010](https://github.com/user-attachments/assets/f91ea95a-ae04-402d-93a5-36f128023bc1)
+
+![IMG-20260215-WA0009](https://github.com/user-attachments/assets/8b4fdb49-80e3-4387-a8f6-44539d048110)
+
+---
+
+
+
+
+
 
 
