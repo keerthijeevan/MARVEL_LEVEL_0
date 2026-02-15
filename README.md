@@ -181,6 +181,41 @@ This task focuses on a Burglar Alarm system that identifies unauthorized access 
 ---
 ![kmap](https://github.com/user-attachments/assets/4ea24771-8921-45cd-bd98-58e8b6f8bc5a)
 
+---
+
+# TASK 6: The Matrix Puzzle — Decode with NumPy & Reveal the Image
+
+## Introduction
+
+Get hands-on with NumPy and Matplotlib by solving a visual puzzle. In this task, a scrambled matrix was provided, and the goal was to decode it into a hidden image using NumPy operations and visualization techniques.
+
+---
+
+## Steps Performed
+
+- Started by loading the scrambled matrix from the given `.npy` file using NumPy’s `np.load()` function.
+- Checked the array’s shape and counted the total elements to decide the correct square dimensions for reshaping.
+- Reshaped the array into a 2D square matrix of size **100×100**.
+- Observed that the image orientation was incorrect after reshaping.
+- Used `np.rot90()` with `k = -1` to rotate the matrix **90 degrees clockwise**.
+- Displayed the decoded image using `matplotlib.pyplot.imshow()`.
+
+---
+
+## Learning Outcome
+
+- Practical understanding of NumPy array manipulation.
+- Experience in reshaping matrices and image transformation.
+- Visualization of data using Matplotlib.
+- Successfully decoded and revealed the hidden image.
+
+---
+<img width="440" height="424" alt="Task-6" src="https://github.com/user-attachments/assets/86030ed7-a017-4486-9646-05a26c1b7161" />
+
+
+
+
+
 
 
 
