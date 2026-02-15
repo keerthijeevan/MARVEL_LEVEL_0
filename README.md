@@ -245,6 +245,55 @@ Familiarize yourself with Jupyter Notebook as a tool for both coding and communi
 👉 [Click here to view the Jupyter Notebook](https://github.com/keerthijeevan/jupyter_notebook/blob/master/marvel.ipynb)
 
 ---
+# TASK 18: Sad Servers - "Like LeetCode for Linux"
+
+## Introduction
+
+Sadservers is a platform designed to practice and improve Linux troubleshooting skills. In this task, we explored a murder mystery located in the Clmystery directory and recorded the suspect’s name in the mysolution file.
+
+---
+
+## Commands Used
+
+- `cd [directory_path]`
+- `ls [options] [directory_path]`
+- `cat [options] [file_name]`
+- `grep [options] "pattern" [file_name]`
+
+---
+
+## Practical Experience
+
+- Navigated through directories using Linux commands.
+- Listed files and explored folder contents.
+- Read file data to analyze clues.
+- Used pattern searching to identify the suspect.
+
+---
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/f1f98c01-a160-4c91-8b1f-b246d2e188c7" />
+---
+# TASK 15: Active Participation
+
+## Introduction
+
+I participated in the event CODEATHON, conducted during the International-Level Annual Technical Symposium, Phase Shift 2024, held at BMSCE on December 5th and 6th, 2024.
+
+---
+
+## Experience
+
+- Participated actively in the CODEATHON event.
+- Engaged in technical challenges and collaborative problem-solving.
+- Gained exposure to competitive programming and innovation-focused activities.
+- Interacted with participants from different backgrounds and enhanced learning experience.
+
+---
+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 15, 2026, 05_07_23 AM" src="https://github.com/user-attachments/assets/35c8917a-54cd-4da4-ad1f-9ed7e5b80433" />
+
+
+
+
 
 
 
