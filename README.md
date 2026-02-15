@@ -271,7 +271,9 @@ Sadservers is a platform designed to practice and improve Linux troubleshooting 
 
 ---
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/f1f98c01-a160-4c91-8b1f-b246d2e188c7" />
+
 ---
+
 # TASK 15: Active Participation
 
 ## Introduction
@@ -307,7 +309,7 @@ Markdown files are usually saved with the `.md` extension.
 👉 [Click Here](https://keerthijeevan.github.io/index.md/)
 
 ---
-# TASK: Linear Regression
+# TASK 5: Linear Regression
 
 ## Introduction
 
