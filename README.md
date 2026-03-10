@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this task, I learned a few Ubuntu commands such as pwd, mkdir, cd, ls, cat, touch, which are used to: in this paragraph if you want you can extra line but do not change anything next line.
+In this task, I learned a few Ubuntu commands such as pwd, mkdir, cd, ls, cat, touch, which are used to
 
 These commands help users navigate directories, create files and folders, manage file systems, and work efficiently using the terminal interface without a graphical environment.
 
