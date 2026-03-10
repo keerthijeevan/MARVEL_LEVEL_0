@@ -54,15 +54,25 @@ In this task, I learned about the working of GitHub, such as how to create a for
 
 ## Steps Performed
 
-- Opened the given GitHub repository.
-- Forked the repository to create a personal copy.
-- Cloned the forked repository into local system (optional step if you did).
-- Made necessary code corrections/changes.
-- Committed the changes.
-- Pushed changes to forked repository.
-- Created a Pull Request (PR) to the main/original repository.
-- Submitted PR for review and merge.
+- Steps Performed (Directly on GitHub)
 
+- Opened the given repository on GitHub.
+
+- Forked the repository to create a personal copy in my GitHub account.
+
+- Opened the required file in the forked repository.
+
+- Edited the code directly on GitHub using the **Edit (✏️)** option.
+
+- Made the necessary corrections/changes in the file.
+
+- Committed the changes using a commit message.
+
+- Used the **Contribute → Open Pull Request** option.
+
+- Created a Pull Request (PR) to the original repository.
+
+- Submitted the pull request for review and merge by the repository maintainer.
 ---
 <img width="1919" height="1075" alt="Screenshot 2026-02-13 221654" src="https://github.com/user-attachments/assets/3a6e34b4-ee18-4218-aad2-b23a2f9b4022" />
 
