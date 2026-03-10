@@ -360,7 +360,7 @@ In this experiment, a DC motor was controlled using an Arduino UNO and the L298N
 - Arduino UNO
 - potentiometer
 - H-bridge motor driver
-
+- L298N which acts as a acts like a power amplifier because Arduino cannot directly power a DC motor because its output pins provide very low current so we use these motor   adaptor
 ---
 
 ## Working Principle
