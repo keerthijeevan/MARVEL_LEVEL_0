@@ -358,9 +358,9 @@ In this experiment, a DC motor was controlled using an Arduino UNO and the L298N
 ## Components Used
 
 - Arduino UNO
--potentiometer
--  H-bridge motor driver
--  
+- potentiometer
+- H-bridge motor driver
+
 ---
 
 ## Working Principle
