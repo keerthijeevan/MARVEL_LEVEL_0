@@ -358,17 +358,16 @@ In this experiment, a DC motor was controlled using an Arduino UNO and the L298N
 ## Components Used
 
 - Arduino UNO
-- L298N Motor Driver
-- Arduino IDE
-- VRPS
-
+-potentiometer
+-  H-bridge motor driver
+-  
 ---
 
 ## Working Principle
 
-- PWM (Pulse Width Modulation) signals were used to control the speed of the DC motor.
+- PWM (Pulse Width Modulation) signals were used to control the speed of the DC motor.(The potentiometer is used to adjust the duty cycle of the PWM signal.)
 - Digital pins were used to change the rotation direction.
-- The L298N motor driver acted as an interface between Arduino and the motor.
+- The H-Bridge is an important circuit used to control the direction of a DC motor
 
 ---
 
