@@ -138,14 +138,6 @@ Soldering refers to the process of joining metal parts together using a filler m
 
 ---
 
-## Practical Understanding
-
-- Observed the solder melting and flowing over metal surfaces.
-- Understood how cooling forms a solid electrical and mechanical connection.
-- Learned about careful handling of soldering iron.
-
----
-
 ![IMG-20260215-WA0010](https://github.com/user-attachments/assets/f91ea95a-ae04-402d-93a5-36f128023bc1)
 
 ![IMG-20260215-WA0009](https://github.com/user-attachments/assets/8b4fdb49-80e3-4387-a8f6-44539d048110)
