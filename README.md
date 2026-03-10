@@ -91,30 +91,24 @@ In this task, I learned about the working of GitHub, such as how to create a for
 3D printing is an additive manufacturing process where 3D objects are created layer by layer based on a digital model or code. So basically I tried to understand the entire workflow of the printer.
 
 ---
+## 3D Printing Overview
 
-## Concepts Learned
+3D printing is an **additive manufacturing process** in which a three-dimensional object is created **layer by layer** from a digital model.
 
-- **STL File:** This is the standard file format for 3D printing. I downloaded one from Thingiverse.
+The process begins with a **3D design** that is saved as an **STL file**.  
+This file is then processed in slicing software such as **Cura**, which converts the model into **G-code**, a set of instructions that guide the printer.
 
-- **Slicing:** Before printing, the STL file is processed in slicer software like Cura converting it to G-CODE.
+After setting parameters like:
 
-- **Printing Speed:**
-  - For better results: keep speed ≤ 55 mm/s.
-  - Helps achieve great surface resolution.
+- **Nozzle temperature**
+- **Bed temperature**
+- **Layer height**
+- **Infill density**
+- **Print speed**
 
----
+the printer melts the **filament** and deposits it **layer by layer** to form the final object.
 
-## Post-Printing Procedures
-
-- **Joining 3D Printed Parts**
-  - Use cyanoacrylate glue (superglue) or two-stage epoxies for PLA parts.
-
-- **Painting**
-  - Almost all 3D printed parts can be painted (except Nylon and PETG).
-
-- **Sanding**
-  - Use progressively finer sandpaper for smooth surface finishes.
-  - Sand slowly to avoid breaking parts or melting due to friction.
+This technology is widely used for **prototyping**, **product design**, and **manufacturing**.
   ---  
 ![IMG-20260215-WA0011](https://github.com/user-attachments/assets/2011dea7-1d7f-4223-be6a-18a4b43847e4)
 
