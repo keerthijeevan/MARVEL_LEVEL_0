@@ -102,7 +102,6 @@ After setting parameters like:
 
 - **Nozzle temperature**
 - **Bed temperature**
-- **Layer height**
 - **Infill density**
 - **Print speed**
 
