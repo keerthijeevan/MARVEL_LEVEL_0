@@ -104,6 +104,7 @@ After setting parameters like:
 - **Bed temperature**
 - **Infill density**
 - **Print speed**
+- **bed temperature**
 
 the printer melts the **filament** and deposits it **layer by layer** to form the final object.
 
