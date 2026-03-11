@@ -164,15 +164,7 @@ This task focuses on a Burglar Alarm system that identifies unauthorized access 
 - Alarm is triggered when:
   - Gate is open.
   - Key remains unpressed.
-- Logical conditions were analyzed and simplified using Karnaugh Map techniques.
-
----
-
-## Learning Outcomes
-
-- Improved understanding of digital logic simplification.
-- Practical application of K-map in real-world problem (alarm system).
-- Visualization of logic minimization process.
+- Logical conditions were analyzed and simplified using Karnaugh Map techniques
 
 ---
 ![kmap](https://github.com/user-attachments/assets/4ea24771-8921-45cd-bd98-58e8b6f8bc5a)
