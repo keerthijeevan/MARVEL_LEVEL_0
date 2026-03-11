@@ -175,29 +175,151 @@ This task focuses on a Burglar Alarm system that identifies unauthorized access 
 
 ## Introduction
 
-Get hands-on with NumPy and Matplotlib by solving a visual puzzle. In this task, a scrambled matrix was provided, and the goal was to decode it into a hidden image using NumPy operations and visualization techniques.
+# Matrix Puzzle – Decoding a Scrambled Image using NumPy
+
+## Step 1: Introduction
+The goal of this task is to decode a hidden image from a scrambled numerical matrix.  
+The matrix contains pixel intensity values that represent an image.
+
+We use the following Python libraries:
+
+- NumPy → for numerical computations and matrix manipulation
+- Matplotlib → for visualizing the image
 
 ---
 
-## Steps Performed
+## Step 2: Concept of Image as a Matrix
+A digital image is represented as a matrix of numbers.
 
-- Started by loading the scrambled matrix from the given `.npy` file using NumPy’s `np.load()` function.
-- Checked the array’s shape and counted the total elements to decide the correct square dimensions for reshaping.
-- Reshaped the array into a 2D square matrix of size **100×100**.
-- Observed that the image orientation was incorrect after reshaping.
-- Used `np.rot90()` with `k = -1` to rotate the matrix **90 degrees clockwise**.
-- Displayed the decoded image using `matplotlib.pyplot.imshow()`.
+Example of a grayscale image matrix:
+
+255 255 255 255  
+255   0   0 255  
+255   0   0 255  
+255 255 255 255  
+
+Where:
+- 0 represents black
+- 255 represents white
+- Values in between represent shades of gray
+
+Therefore:
+
+Image = Matrix of pixel values
 
 ---
 
-## Learning Outcome
+## Step 3: Loading the Scrambled Matrix
+The scrambled image data is stored in a NumPy file (`.npy`).
 
-- Practical understanding of NumPy array manipulation.
-- Experience in reshaping matrices and image transformation.
-- Visualization of data using Matplotlib.
-- Successfully decoded and revealed the hidden image.
+This file contains numerical values representing pixel intensities.
+
+The data is loaded into the program so we can manipulate it.
 
 ---
+
+## Step 4: Checking the Shape of the Data
+Every NumPy array has a shape.
+
+Shape represents:
+
+(rows, columns)
+
+Example:
+
+(200, 50)
+
+Meaning:
+- 200 rows
+- 50 columns
+
+Understanding the shape helps us analyze the structure of the scrambled data.
+
+---
+
+## Step 5: Flattening the Matrix
+Flattening converts a 2D matrix into a 1D array.
+
+Example:
+
+Before flatten:
+
+1 2  
+3 4  
+
+After flatten:
+
+[1 2 3 4]
+
+This helps reorganize the data before reshaping.
+
+---
+
+## Step 6: Finding the Square Dimension
+The puzzle suggests reshaping the data into a square matrix.
+
+If the total number of elements is:
+
+10000
+
+Then:
+
+√10000 = 100
+
+So the correct matrix dimension becomes:
+
+100 × 100
+
+---
+
+## Step 7: Reshaping the Array
+Reshaping changes the structure of the array without changing the data.
+
+Example:
+
+Before reshape:
+
+[1 2 3 4 5 6]
+
+After reshape (2 × 3):
+
+1 2 3  
+4 5 6  
+
+This step reconstructs the correct pixel grid of the image.
+
+---
+
+## Step 8: Displaying the Image
+Once the matrix is correctly structured, it can be visualized.
+
+Matplotlib converts matrix values into pixel intensities and displays the image.
+
+This reveals the hidden picture encoded in the scrambled data.
+
+---
+
+## Step 9: Workflow Summary
+
+Scrambled Matrix  
+↓  
+Load Data using NumPy  
+↓  
+Check Shape  
+↓  
+Flatten the Matrix  
+↓  
+Find Square Dimension  
+↓  
+Reshape into Square Matrix  
+↓  
+Display Image using Matplotlib  
+
+---
+
+## Step 10: Conclusion
+In this task, a scrambled numerical dataset representing pixel intensities was decoded using NumPy matrix operations.  
+After restructuring the data into a square matrix, the image was visualized using Matplotlib, revealing the hidden image.
 <img width="440" height="424" alt="Task-6" src="https://github.com/user-attachments/assets/86030ed7-a017-4486-9646-05a26c1b7161" />
 
 ---
