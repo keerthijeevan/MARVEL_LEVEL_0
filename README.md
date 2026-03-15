@@ -36,7 +36,7 @@ These commands help users navigate directories, create files and folders, manage
 
 ---
 
-<img width="1016" height="582" alt="Screenshot 2026-02-15 125444" src="https://github.com/user-attachments/assets/076e73b7-b685-4717-bfcb-aa416cbeba51" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/076e73b7-b685-4717-bfcb-aa416cbeba51)
 
 ---
 
@@ -74,7 +74,7 @@ In this task, I learned about the working of GitHub, such as how to create a for
 
 - Submitted the pull request for review and merge by the repository maintainer.
 ---
-<img width="1919" height="1075" alt="Screenshot 2026-02-13 221654" src="https://github.com/user-attachments/assets/3a6e34b4-ee18-4218-aad2-b23a2f9b4022" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/3a6e34b4-ee18-4218-aad2-b23a2f9b4022)
 
 ---
 
@@ -320,7 +320,7 @@ Display Image using Matplotlib
 ## Step 10: Conclusion
 In this task, a scrambled numerical dataset representing pixel intensities was decoded using NumPy matrix operations.  
 After restructuring the data into a square matrix, the image was visualized using Matplotlib, revealing the hidden image.
-<img width="440" height="424" alt="Task-6" src="https://github.com/user-attachments/assets/86030ed7-a017-4486-9646-05a26c1b7161" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/86030ed7-a017-4486-9646-05a26c1b7161)
 
 ---
 # TASK 20: Notebook Ninja – Getting Started with Jupyter
@@ -379,8 +379,7 @@ Sadservers is a platform designed to practice and improve Linux troubleshooting 
 - Read file data to analyze clues.
 - Used pattern searching to identify the suspect.
 
----
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/f1f98c01-a160-4c91-8b1f-b246d2e188c7" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/f1f98c01-a160-4c91-8b1f-b246d2e188c7)
 
 ---
 
@@ -401,7 +400,7 @@ I participated in the event CODEATHON, conducted during the International-Level 
 
 ---
 
-<img width="1536" height="1024" alt="ChatGPT Image Feb 15, 2026, 05_07_23 AM" src="https://github.com/user-attachments/assets/35c8917a-54cd-4da4-ad1f-9ed7e5b80433" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/35c8917a-54cd-4da4-ad1f-9ed7e5b80433)
 
 ---
 # TASK 8: Writing a Resource Article Using Markdown
@@ -458,7 +457,7 @@ Linear Regression is a supervised machine learning algorithm used to model the r
 
 ---
 ## Maths beyond the linear regresion
-<img width="1536" height="1024" alt="Linear regression handwritten notes" src="https://github.com/user-attachments/assets/7aeaa08f-4573-4997-9487-b1160e05a327" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/7aeaa08f-4573-4997-9487-b1160e05a327)
 ---
 
 # TASK 10: Speed Control of DC Motor
@@ -491,7 +490,7 @@ In this experiment, a DC motor was controlled using an Arduino UNO and the L298N
 - Practical experience with Arduino motor control.
 - Learning about H-bridge motor driver functionality.
 ---
-<img width="1003" height="566" alt="Screenshot 2026-02-15 160112" src="https://github.com/user-attachments/assets/9667a916-0882-438e-928d-083f9e5e9912" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/9667a916-0882-438e-928d-083f9e5e9912)
 
 ---
 
@@ -521,7 +520,7 @@ Without the Arduino, the ultrasonic sensor and servo motor cannot function toget
 
 ---
 
-<img width="999" height="690" alt="Screenshot 2026-02-15 163008" src="https://github.com/user-attachments/assets/8713852d-88a2-4c11-a601-5531d656e34e" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/8713852d-88a2-4c11-a601-5531d656e34e)
 
 ---
 
