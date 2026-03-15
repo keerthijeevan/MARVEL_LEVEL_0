@@ -453,7 +453,7 @@ Linear Regression is a supervised machine learning algorithm used to model the r
 - Visualized prediction results.
 ---
 ##  housing price vs feature
-<img width="1918" height="1072" alt="Screenshot 2026-02-13 185908" src="https://github.com/user-attachments/assets/ede04af6-52ce-43f2-9eba-7871ab27e848" />
+![Screenshot 2026-02-15 125444](https://github.com/user-attachments/assets/ede04af6-52ce-43f2-9eba-7871ab27e848)
 
 ---
 ## Maths beyond the linear regresion
